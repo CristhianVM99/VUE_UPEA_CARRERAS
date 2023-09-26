@@ -1,0 +1,35 @@
+{
+  "name": "upea_carreras_vue",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.5.0",
+    "core-js": "^3.32.2",
+    "crypto-js": "^4.1.1",
+    "particles.vue3": "^2.12.0",
+    "pinia": "^2.1.6",
+    "swiper": "^7.4.1",
+    "vue": "^3.3.4",
+    "vue-awesome-swiper": "^5.0.1",
+    "vue-count-to": "^1.0.13",
+    "vue-pdf-embed": "^1.1.6",
+    "vue-query": "^1.26.0",
+    "vue-router": "^4.2.4",
+    "vue-scrollto": "^2.20.0",
+    "vue-server-renderer": "^2.7.14",
+    "vue-show-more-text": "^2.0.2",
+    "vue-slick-carousel": "^1.0.6",
+    "vue-template-compiler": "^2.7.14",
+    "vue-typer": "^1.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.5"
+  }
+}
